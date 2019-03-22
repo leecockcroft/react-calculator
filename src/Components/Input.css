@@ -1,0 +1,13 @@
+.input {
+  height: 1.5em;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: flex;
+  justify-content: flex-end;
+  -webkit-align-content: center;
+  align-content: center;
+  background-color: black;
+  color: #fff;
+
+  font-size: 4em;
+}
